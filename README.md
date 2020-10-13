@@ -1,4 +1,4 @@
-# Guilherme Henrique (guigo)
+<img src="https://github.com/guigo/guigo/blob/main/banner.jpeg" alt="Banner about Guigo">
 
 ## Hello everyone 👋
 
