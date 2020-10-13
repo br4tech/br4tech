@@ -1,7 +1,7 @@
 # Guilherme Henrique (guigo)
 [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-14408957/)](https://www.linkedin.com/in/guilherme-henrique-14408957/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-guilherme.tr.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.tr.silva@gmail.com)](mailto:guilherme.tr.silva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Guilherme.tr.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.tr.silva@gmail.com)](mailto:Guilherme.tr.silva@gmail.com)
 
 ## Hello everyone 👋
 
