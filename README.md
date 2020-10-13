@@ -1,9 +1,9 @@
-# Guilherme Henrique (guigo)
+# Guilherme Henrique (Guilherme Henrique)
 [![Linkedin Badge](https://img.shields.io/badge/-guigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-14408957/)](https://www.linkedin.com/in/guilherme-henrique-14408957/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-guilherme.tr.silva@gmail.com)-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jguilherme.tr.silva@gmail.com))](mailto:guilherme.tr.silva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-guilherme.tr.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jguilherme.tr.silva@gmail.com))](mailto:guilherme.tr.silva@gmail.com)
 
-## Hello everyone 👋, 
+## Hello everyone 👋
 
 I'm Guilherme Henrique, but you can call me guigo my nickname.
 
