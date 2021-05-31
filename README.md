@@ -14,10 +14,10 @@ I'm Guilherme Henrique, but you can call me guigo my nickname.
   <a href="https://www.linkedin.com/in/guilherme-henrique-14408957/" alt="LinkedIn">
      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-henrique-14408957/" alt="Gmail">
+  <a href="https://mail.google.com/" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.tr.silva@gmail.com" />
   </a>   
-  <a href="https://www.instagram.com/gui_goll/" alt="Instagram">
+  <a href="https://www.instagram.com/br4tech" alt="Instagram">
    <img src="https://img.shields.io/badge/-Instagram-ea4458?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/gui_goll" alt="twitter">
