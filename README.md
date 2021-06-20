@@ -1,4 +1,4 @@
-<img src="https://github.com/guigo/guigo/blob/main/banner.jpeg" alt="Banner about Guigo">
+<img src="capa-yt.png" alt="Banner about Guigo">
 
 ## Hello everyone 👋
 
