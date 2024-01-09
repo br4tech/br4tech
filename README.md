@@ -40,7 +40,7 @@ Thanks! :heart:
 </p>
 
 <p id="socialIcons" align="">
- <img src="https://visitor-badge.glitch.me/badge?page_id=guigo/guigo"> 
+ <img src="https://visitor-badge.glitch.me/badge?page_id=br4tech/br4tech"> 
 </p>
   
 
