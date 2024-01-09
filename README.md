@@ -39,9 +39,6 @@ Thanks! :heart:
   <img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200"/>
 </p>
 
-<p id="socialIcons" align="">
- <img src="https://visitor-badge.glitch.me/badge?page_id=br4tech/br4tech"> 
-</p>
   
 
 
