@@ -2,7 +2,7 @@
 
 ## Hello everyone 👋
 
-I'm Guilherme Henrique, but you can call me guigo my nickname.
+I'm Guilherme Henrique, but you can call me br4tech my nickname.
 
 - :mag:  I'm Ruby Developer and Mobile development enthusiast. 
 - :heart:  I love technology and inovation. 
