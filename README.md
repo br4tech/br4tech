@@ -1,4 +1,4 @@
-<img src="capa-yt.gif" alt="Banner about Guigo">
+<img src="capa-yt.jpg" alt="Banner about Guigo">
 
 ## Hello everyone 👋
 
