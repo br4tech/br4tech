@@ -1,17 +1,17 @@
-<img src="capa-yt.jpg" alt="Banner about Guigo">
+<img src="capa-yt.png" alt="Banner about br4tech">
 
 ## Hello everyone 👋
 
 I'm Guilherme Henrique, but you can call me br4tech my nickname.
 
-- :mag:  I'm Ruby Developer and Mobile development enthusiast. 
+- :mag:  I'm software enginner. 
 - :heart:  I love technology and inovation. 
 - :video_game:  Game lover specifically Battle Royale. 
 
 ## Reach Me
 
 <p id="socialIcons" align="center">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-14408957/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/br4tech/" alt="LinkedIn">
      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://mail.google.com/" alt="Gmail">
@@ -20,8 +20,8 @@ I'm Guilherme Henrique, but you can call me br4tech my nickname.
   <a href="https://www.instagram.com/br4tech" alt="Instagram">
    <img src="https://img.shields.io/badge/-Instagram-ea4458?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/gui_goll" alt="twitter">
-   <img src="https://img.shields.io/badge/-Twitter-2aa9e0?style=flat-square&logo=Instagram&logoColor=white" />
+  <a href="https://www.youtube.com/channel/UCGKOCJ1V27xyfcQoxeN7WHA" alt="twitter">
+   <img src="https://img.shields.io/badge/-youTube-FF0000?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
