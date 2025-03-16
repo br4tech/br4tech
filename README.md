@@ -1,5 +1,3 @@
-<img src="capa-yt.png" alt="Banner about br4tech">
-
 ## Hello everyone 👋
 
 I'm Guilherme Henrique, but you can call me br4tech my nickname.
@@ -23,6 +21,7 @@ I'm Guilherme Henrique, but you can call me br4tech my nickname.
   <a href="https://www.youtube.com/channel/UCGKOCJ1V27xyfcQoxeN7WHA" alt="twitter">
    <img src="https://img.shields.io/badge/-youTube-FF0000?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
+  ![Snake animation](https://github.com/toshiossada/toshiossada/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 
