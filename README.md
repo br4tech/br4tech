@@ -7,6 +7,7 @@ I'm Guilherme Henrique, but you can call me br4tech my nickname.
 - :video_game:  Game lover specifically Battle Royale. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=br4tech&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br4tech&theme=dracula,html)
 
 ## Reach Me
 
