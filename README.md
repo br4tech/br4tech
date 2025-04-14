@@ -1,5 +1,3 @@
-<img src="capa-yt.png" alt="Banner about br4tech">
-
 ## Hello everyone 👋
 
 I'm Guilherme Henrique, but you can call me br4tech my nickname.
