@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: '0 */12 * * *' # Executa a cada 12 horas
-  workflow_dispatch: # Permite executar manualmente pela aba Actions
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
           github_user_name: br4tech
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark # Opcional: tema escuro
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Commit e Push das alterações
       - name: Commit and Push

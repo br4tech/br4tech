@@ -24,7 +24,13 @@ I'm Guilherme Henrique, but you can call me br4tech my nickname.
 
 _**Let's code ?**_ :rocket:
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
+<img src="./dist/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+  <img alt="github-contribution-grid-snake" src="./dist/github-contribution-grid-snake.svg">
+</picture>
 
 Thanks! :heart:
 
